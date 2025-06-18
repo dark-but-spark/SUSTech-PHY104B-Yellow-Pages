@@ -1,25 +1,26 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "SUSTech PHY104B"
+  text: "基础物理实验救生员"
+  tagline: 南方科技大学基础物理实验课程资源汇总
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始使用
+      link: ./guide
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 资源目录
+      link: /resources
+    - theme: alt
+      text: 如何贡献
+      link: /resources
+      
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
+  - title: Github 仓库导航
+    details: 
+  - title: 实验资源
+    details: 
+  - title: 课程资料
+    details: 

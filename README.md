@@ -12,11 +12,25 @@ https://github.com/NeilYYYY/PHY104B_SUSTech_Experiments_of_Fundamental_Physics
 
 https://github.com/dark-but-spark/PHY104BExperiments-of-Fundamental-Physics
 
+ - [Kuni05的仓库](https://github.com/Kuni05/SUSTech-PHY104B)
+ - [NeilYYYY的仓库](https://github.com/NeilYYYY/PHY104B_SUSTech_Experiments_of_Fundamental_Physics)
+ - [dark-but-spark的仓库](https://github.com/dark-but-spark/PHY104BExperiments-of-Fundamental-Physics)
+
 ### 群文件
 
 思考一下使用哪些网盘服务存。
 
 ## 开发目标及计划
+
+ok我们现在面对以下需要处理的内容：
+
+- 来源
+  - 群聊文件
+  - 群精华内容
+  - github repo
+- 形式
+  - 电子报告 .tex .ipynb .docx
+  - 扫描件报告 图片文件 .pdf
 
 ### 目标
 
