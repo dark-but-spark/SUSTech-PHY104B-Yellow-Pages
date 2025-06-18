@@ -1,0 +1,30 @@
+{
+  "name": "sustech-phy104b-yellow-pages",
+  "version": "1.0.0",
+  "description": "南方科技大学基础物理实验电子版黄页",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev ./docs",
+    "docs:build": "vitepress build ./docs",
+    "docs:preview": "vitepress preview ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIUBINfighter/SUSTech-PHY104B-Yellow-Pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LIUBINfighter/SUSTech-PHY104B-Yellow-Pages/issues"
+  },
+  "homepage": "https://github.com/LIUBINfighter/SUSTech-PHY104B-Yellow-Pages#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
