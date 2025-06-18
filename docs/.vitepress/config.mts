@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SUSTech PHY104B 黄页",
   description: "南方科技大学基础物理实验电子版黄页",
+  base: process.env.BASE_URL || '/SUSTech-PHY104B-Yellow-Pages/',
   themeConfig: {
     nav: [
       { text: '开始阅读', link: '/guide' },
