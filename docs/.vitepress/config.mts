@@ -1,11 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "SUSTech PHY104B 黄页",
   description: "南方科技大学基础物理实验电子版黄页",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '开始阅读', link: '/guide' },
       { text: '资源目录', link: '/resources' },

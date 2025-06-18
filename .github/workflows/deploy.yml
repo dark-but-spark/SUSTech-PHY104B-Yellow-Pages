@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -23,9 +26,13 @@ jobs:
 
       - name: Build docs
         run: npm run docs:build
+        env:
+          # 为 GitHub Pages 设置正确的 base 路径
+          BASE_URL: /SUSTech-PHY104B-Yellow-Pages/
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs/.vitepress/dist
+          force_orphan: true
