@@ -7,10 +7,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '开始阅读', link: '/' },
+      { text: '开始阅读', link: '/guide' },
       { text: '资源目录', link: '/resources' },
-      { text: '如何贡献', link: '/contributing' },
-      { text: '技术手册', link: '/manual' }
+      { text: '如何贡献', link: '/contributing' }
     ],
 
     sidebar: [
@@ -25,16 +24,14 @@ export default defineConfig({
       {
         text: '实验导航',
         items: [
-          { text: '实验报告模板', link: '/templates' },
-          { text: '数据分析程序', link: '/programs' }
+          { text: '实验报告模板', link: '/templates' }
           // 可在此处继续添加具体实验
         ]
       },
       {
         text: '本站设计与技术',
         items: [
-          { text: '设计思路', link: '/site-design' },
-          { text: '技术迭代', link: '/tech-iteration' }
+          { text: '设计思路', link: '/site-design' }
         ]
       }
     ],

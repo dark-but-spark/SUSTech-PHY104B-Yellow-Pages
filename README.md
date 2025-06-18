@@ -50,6 +50,16 @@ ok我们现在面对以下需要处理的内容：
 
 我看单页就行。
 
+其他意见：
+
+形式上多页，每一个实验一页
+每一页里有实验注意事项 实验报告参考 计算程序的使用指南
+
+大概可以这样
+- 实验1
+  - 计算程序.ipynb
+  - 实验对应的html或者markdown
+
 ### 参考
 
 [SUSTech-EE-Course-Hero](https://github.com/SUSTech-EE-Course-Hero/SUSTech-EE-Course-Hero)
