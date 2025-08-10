@@ -6,3 +6,6 @@
 ## 历年电子版
 
 ### 2025年春季学期
+
+
+[NeilYYY(Latex)(100分)](https://github.com/NeilYYYY/PHY104B_SUSTech_Experiments_of_Fundamental_Physics/tree/main/5_%E7%83%AD%E7%94%B5%E5%81%B6%E7%9A%84%E7%89%B9%E6%80%A7%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8_100%E5%88%86)
