@@ -6,3 +6,5 @@
 ## 历年电子版
 
 ### 2025年春季学期
+
+[Tristan-alpha(latex)](https://github.com/Tristan-alpha/Phylab-PHY104B-SUSTech/tree/main/%E6%B6%B2%E4%BD%93%E9%BB%8F%E5%BA%A6%E6%B5%8B%E5%AE%9A)
