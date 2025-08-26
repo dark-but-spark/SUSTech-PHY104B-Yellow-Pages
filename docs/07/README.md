@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[07 分光计的调整与使用](./07.pdf)
+[07 分光计的调整与使用](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/07/07.pdf)
 
 ## 注意事项
 

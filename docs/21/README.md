@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[21 时间测量中随机误差的分布规律](./21.pdf)
+[21 时间测量中随机误差的分布规律](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/21/21.pdf)
 
 ## 注意事项
 1. 作图时曲线的规范（需要确定）

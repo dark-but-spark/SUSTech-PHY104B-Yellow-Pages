@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[10 迈克耳逊干涉仪](./10.pdf)
+[10 迈克耳逊干涉仪](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/10/10.pdf)
 
 ## 注意事项
 

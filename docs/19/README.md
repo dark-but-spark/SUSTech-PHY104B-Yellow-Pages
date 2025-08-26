@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[19 固体杨氏模量讲义2025](./19.pdf)
+[19 固体杨氏模量讲义2025](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/19/19.pdf)
 
 ## 注意事项
 

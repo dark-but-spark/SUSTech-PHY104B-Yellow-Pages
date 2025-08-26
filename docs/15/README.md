@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[15 液体黏度的测定](./15.pdf)
+[15 液体黏度的测定](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/15/15.pdf)
 
 ## 注意事项
 

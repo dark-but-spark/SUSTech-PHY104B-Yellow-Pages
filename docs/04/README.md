@@ -1,7 +1,7 @@
 # 04 声速的测量
 ## 讲义
 
-[04 声速的测量](./04.pdf)
+[04 声速的测量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/04/04.pdf)
 
 ## 注意事项
 

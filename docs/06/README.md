@@ -2,8 +2,8 @@
 
 ## 讲义
 
-[06 光电效应法测普朗克常量](./06.pdf)
-[光电效应补充](./06_supplement.pdf)
+[06 光电效应法测普朗克常量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/06/06.pdf)
+[光电效应补充](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/06/06_supplement.pdf)
 
 ## 注意事项
 

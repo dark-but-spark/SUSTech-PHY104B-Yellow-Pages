@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[12 空气比热容比热比](./12.pdf)
+[12 空气比热容比热比](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/12/12.pdf)
 
 ## 注意事项
 

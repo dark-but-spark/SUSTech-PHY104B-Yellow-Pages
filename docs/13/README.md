@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[13 线性与非线性元素伏安特性的测量](./13.pdf)
+[13 线性与非线性元素伏安特性的测量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/13/13.pdf)
 
 ## 注意事项
 

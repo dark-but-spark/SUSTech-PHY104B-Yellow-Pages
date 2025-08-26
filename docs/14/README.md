@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[14 测量螺线管的磁场](./14.pdf)
+[14 测量螺线管的磁场](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/14/14.pdf)
 
 ## 注意事项
 

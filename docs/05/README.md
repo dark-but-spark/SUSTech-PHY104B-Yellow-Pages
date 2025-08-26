@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[05 透镜参数的测量](./05.pdf)
+[05 透镜参数的测量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/05/05.pdf)
 
 ## 注意事项
 

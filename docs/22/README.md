@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[22 单摆的设计与研究实验](./22.pdf)
+[22 单摆的设计与研究实验](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/22/22.pdf)
 
 ## 注意事项
 

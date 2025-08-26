@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[01 热敏电阻温度特性研究实验](./01.pdf)
+[01 热敏电阻温度特性研究实验](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/01/01.pdf)
 
 ## 注意事项
 

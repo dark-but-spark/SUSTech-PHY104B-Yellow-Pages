@@ -1,7 +1,7 @@
 # 17 密立根油滴实验 2025
 ## 讲义
 
-[17 密立根油滴实验](./17.pdf)
+[17 密立根油滴实验](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/17/17.pdf)
 
 ## 注意事项
 

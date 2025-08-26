@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[09 氢氘光谱实验](./09.pdf)
+[09 氢氘光谱实验](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/09/09.pdf)
 
 ## 注意事项
 

@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[18 切变模量的测量](./18.pdf)
+[18 切变模量的测量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/18/18.pdf)
 
 ## 注意事项
 

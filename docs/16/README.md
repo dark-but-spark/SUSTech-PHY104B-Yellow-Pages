@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[16 液体表面张力系数的测定](./16.pdf)
+[16 液体表面张力系数的测定](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/16/16.pdf)
 
 ## 注意事项
 

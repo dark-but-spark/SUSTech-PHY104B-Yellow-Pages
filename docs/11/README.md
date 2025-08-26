@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[11 脉搏语音及图像的傅里叶分析](./11.pdf)
+[11 脉搏语音及图像的傅里叶分析](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/11/11.pdf)
 
 ## 注意事项
 

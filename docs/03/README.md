@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[03 示波器原理与交流信号测量](./03.pdf)
+[03 示波器原理与交流信号测量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/tree/main/docs/03/03.pdf)
 
 ## 注意事项
 

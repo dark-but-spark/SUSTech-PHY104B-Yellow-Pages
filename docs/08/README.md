@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[08 干涉法测微小量](./08.pdf)
+[08 干涉法测微小量](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/08/08.pdf)
 
 ## 注意事项
 

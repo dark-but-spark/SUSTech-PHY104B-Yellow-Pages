@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[02 热电偶特性](./02.pdf)
+[02 热电偶特性](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/02/02.pdf)
 
 ## 注意事项
 

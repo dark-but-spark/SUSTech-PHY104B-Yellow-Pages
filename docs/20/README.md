@@ -2,7 +2,7 @@
 
 ## 讲义
 
-[20 直线运动规律的研究](./20.pdf)
+[20 直线运动规律的研究](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/blob/main/docs/20/20.pdf)
 
 ## 注意事项
 
