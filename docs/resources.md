@@ -51,8 +51,14 @@
 
 ## 数据分析工具
 
-// ...可补充数据分析工具内容...
+- [Python](https://www.python.org/)：广泛使用的编程语言，适合数据分析和科学计算。
+- [Anaconda](https://www.anaconda.com/)：Python=数据科学平台，集成了多种数据分析工具，可以用于python包管理。
+- [Jupyter Notebook](https://jupyter.org/)：交互式计算环境，支持代码、文本和可视化。
+- Pandas：Python数据分析库，提供数据结构和数据分析工具。
+- NumPy：Python科学计算库，支持大规模数组和矩阵运算。
+- Matplotlib：Python绘图库，支持生成各种静态、动态和交互式图表。
+- [vscode](https://code.visualstudio.com/)：集成开发环境，支持多种编程语言和工具，适合进行数据分析和科学计算。
+- [origin](https://www.originlab.com/)：数据分析和可视化工具，适用于物理实验数据处理。
 
 ## 参考资料
 
-// ...可补充参考资料内容...
