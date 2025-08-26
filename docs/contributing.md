@@ -4,8 +4,8 @@
 
 ## 贡献方式
 
-- 提交 Pull Request
-- 提出 Issue
+- 提交 [Pull Request](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/pulls)
+- 提出 [Issue](https://github.com/dark-but-spark/SUSTech-PHY104B-Yellow-Pages/issues)
 - 优化文档内容
 
 ## 本地开发指引
