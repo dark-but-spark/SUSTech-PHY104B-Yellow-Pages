@@ -2,7 +2,7 @@
 
 [实验计算器程序](https://github.com/dark-but-spark/PHY104BExperiments-of-Fundamental-Physics/blob/main/22%E5%8D%95%E6%91%86%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C/calculator.ipynb)
 
-[更好的阅读体验](https://dark-but-spark.github.io/2025/04/01/PHY104BCalculator/22/)
+[更好的阅读体验](https://dark-but-spark.github.io/2025/03/04/PHY104BCalculator/22/)
 
 ## 初始化部分（不用阅读 直接跳过）
 
