@@ -1,0 +1,1 @@
+import{_ as r,c as a,o as t,ae as o}from"./chunks/framework.BG3Z_L9p.js";const i=JSON.parse('{"title":"资源导航","description":"","frontmatter":{},"headers":[],"relativePath":"resources.md","filePath":"resources.md"}'),l={name:"resources.md"};function p(s,e,h,b,n,c){return t(),a("div",null,e[0]||(e[0]=[o("",28)]))}const f=r(l,[["render",p]]);export{i as __pageData,f as default};

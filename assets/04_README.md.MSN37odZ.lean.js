@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.BG3Z_L9p.js";const u=JSON.parse('{"title":"04 声速的测量","description":"","frontmatter":{},"headers":[],"relativePath":"04/README.md","filePath":"04/README.md"}'),n={name:"04/README.md"};function i(l,a,h,s,d,c){return t(),r("div",null,a[0]||(a[0]=[o("",7)]))}const p=e(n,[["render",i]]);export{u as __pageData,p as default};
