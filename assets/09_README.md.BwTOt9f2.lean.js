@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.BG3Z_L9p.js";const p=JSON.parse('{"title":"09 氢氘光谱实验","description":"","frontmatter":{},"headers":[],"relativePath":"09/README.md","filePath":"09/README.md"}'),n={name:"09/README.md"};function i(h,a,l,d,s,_){return t(),r("div",null,a[0]||(a[0]=[o("",7)]))}const u=e(n,[["render",i]]);export{p as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as i,ae as l}from"./chunks/framework.BG3Z_L9p.js";const p=JSON.parse('{"title":"设计思路","description":"","frontmatter":{},"headers":[],"relativePath":"site-design.md","filePath":"site-design.md"}'),o={name:"site-design.md"};function r(s,e,n,d,_,c){return i(),t("div",null,e[0]||(e[0]=[l("",6)]))}const m=a(o,[["render",r]]);export{p as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as i,o as a,ae as l}from"./chunks/framework.BG3Z_L9p.js";const s=JSON.parse('{"title":"课程须知","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md","filePath":"guide.md"}'),t={name:"guide.md"};function d(c,e,r,n,p,u){return a(),i("div",null,e[0]||(e[0]=[l("",13)]))}const b=o(t,[["render",d]]);export{s as __pageData,b as default};

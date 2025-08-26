@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as o}from"./chunks/framework.BG3Z_L9p.js";const E=JSON.parse('{"title":"05 透镜参数的测量","description":"","frontmatter":{},"headers":[],"relativePath":"05/README.md","filePath":"05/README.md"}'),n={name:"05/README.md"};function i(h,a,l,s,d,_){return r(),t("div",null,a[0]||(a[0]=[o("",7)]))}const u=e(n,[["render",i]]);export{E as __pageData,u as default};

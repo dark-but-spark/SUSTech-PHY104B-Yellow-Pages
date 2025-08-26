@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as n}from"./chunks/framework.BG3Z_L9p.js";const E=JSON.parse('{"title":"15 液体黏度的测定","description":"","frontmatter":{},"headers":[],"relativePath":"15/README.md","filePath":"15/README.md"}'),o={name:"15/README.md"};function i(h,a,l,s,d,c){return t(),r("div",null,a[0]||(a[0]=[n("",9)]))}const p=e(o,[["render",i]]);export{E as __pageData,p as default};
