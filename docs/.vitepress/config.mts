@@ -1,9 +1,39 @@
 import { defineConfig } from 'vitepress'
+import mathjax3 from 'markdown-it-mathjax3'
 
 export default defineConfig({
   title: "SUSTech PHY104B 黄页",
   description: "南方科技大学基础物理实验电子版黄页",
   base: process.env.BASE_URL || '/SUSTech-PHY104B-Yellow-Pages/',
+    markdown: {
+    config: (md) => {
+      md.use(mathjax3)
+    }
+  },
+  
+  head: [
+    ['script', {}, `
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true
+        },
+        svg: {
+          fontCache: 'global'
+        }
+      };
+    `],
+    ['script', { 
+      async: true,
+      src: 'https://polyfill.io/v3/polyfill.min.js?features=es6' 
+    }],
+    ['script', { 
+      async: true,
+      id: 'MathJax-script',
+      src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js' 
+    }]
+  ],
   themeConfig: {
     nav: [
       { text: '开始阅读', link: '/guide' },
